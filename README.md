@@ -1,1 +1,1 @@
-# Codsoft_calculator
+calculator using html , css and javascript
